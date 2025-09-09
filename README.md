@@ -9,9 +9,7 @@ Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a
 
 A list of Frequently Asked Questions about this repository can be found [here](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Frequently-Asked-Questions).
 
-## Overview Video
 
-[Steve "ardalis" Smith](https://twitter.com/ardalis) recorded [a live stream providing an overview of the eShopOnWeb reference app](https://www.youtube.com/watch?v=vRZ8ucGac8M&ab_channel=Ardalis) in October 2020. 
 
 ## eBook
 
@@ -164,10 +162,4 @@ You should be able to make requests to localhost:5106 for the Web project, and l
 
 You can also run the applications by using the instructions located in their `Dockerfile` file in the root of each project. Again, run these commands from the root of the solution (where the .sln file is located).
 
-## Community Extensions
 
-We have some great contributions from the community, and while these aren't maintained by Microsoft we still want to highlight them.
-
-[eShopOnWeb VB.NET](https://github.com/VBAndCs/eShopOnWeb_VB.NET) by Mohammad Hamdy Ghanem
-
-[FShopOnWeb](https://github.com/NitroDevs/FShopOnWeb) An F# take on eShopOnWeb by Sean G. Wright and Kyle McMaster
